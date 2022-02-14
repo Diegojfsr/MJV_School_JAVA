@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "Id": 1,
+            "Codigo": 1100015,
+            "Nome": "Alta Floresta D'Oeste",
+            "Uf": "RO"
+        },
+        {
+            "Id": 2,
+            "Codigo": 1100023,
+            "Nome": "Ariquemes",
+            "Uf": "RO"
+        }
+    ]
+}
